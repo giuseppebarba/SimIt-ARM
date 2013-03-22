@@ -21,7 +21,7 @@
 #include <sys/types.h>
 #include <fcntl.h>
 #include <cassert>
-
+#include <cstring>
 #include <list>
 #include <map>
 

@@ -15,8 +15,9 @@
 
 
 #include <cstdlib>
+#include <cstdio>
 #include <fstream>
-#include <stdio.h>
+#include <cstring>
 
 #include "decode.h"
 #include "huffman.h"

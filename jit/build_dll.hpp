@@ -13,7 +13,7 @@
     GNU General Public License for more details.
 *************************************************************************/
 
-#define PREFIX "/home/giuseppe/git/SimIt-ARM-3.0/build"
+#define PREFIX "/home/barba/Personali/SimIt-ARM/build"
 #define CXX "g++"
 
 #define MORE_OPTION " -O -fpic -shared -pipe -fomit-frame-pointer -finline-limit=5000"
